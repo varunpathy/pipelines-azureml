@@ -1,6 +1,6 @@
 variables:
   ml-ws-connection: 'IDF_Azure_Training (40a4e611-a7b7-4668-9f54-bcc5818cd941)' # Workspace Service Connection name
-  ml-ws: 'ACN-MLOps-Azure' # AML Workspace name
+  ml-ws: 'Azure-MLOps-Project' # AML Workspace name
   ml-rg: 'Azure-MLOps-Project' # AML resource Group name
   ml-ct: 'cpu-cluster-1' # AML Compute cluster name
   ml-path: 'models/diabetes' # Model directory path in repo
